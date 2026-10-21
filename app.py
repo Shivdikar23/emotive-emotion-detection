@@ -15,7 +15,7 @@ st.set_page_config(
 
 # ---------------- MODEL CONFIG ----------------
 MODEL_PATH = Path(__file__).resolve().parent / "bert-emotion-model"
-HF_FALLBACK_MODEL = "bhadresh-savani/bert-base-uncased-emotion"
+HF_FALLBACK_MODEL = "Shivdikar23/emotive-bert-emotion"
 DEFAULT_EMOTIONS = ["sadness", "joy", "love", "anger", "fear", "surprise"]
 EMOJI = {
     "sadness": "🥹", "joy": "☀️", "love": "💗",
