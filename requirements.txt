@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+torch>=2.6.0
+transformers>=4.44.0
+pandas
+safetensors
+huggingface_hub
+altair
+rapidocr
+onnxruntime
+pillow
